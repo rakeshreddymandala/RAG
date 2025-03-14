@@ -1,0 +1,9 @@
+langchain 
+langchain_community 
+langchain_huggingface 
+faiss-cpu 
+huggingface_hub
+streamlit
+pymupdf
+
+
